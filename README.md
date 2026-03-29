@@ -1,1 +1,1 @@
-
+This C++ Simple Bank Ledger is a command-line application designed to manage financial accounts with high precision and reliable data persistence. By utilizing CSV files for storage, it ensures that all account balances and transaction histories are saved in a structured data/ directory, specifically within accounts.csv and ledger.csv. The system implements essential banking logic, including a strict no-overdraft policy, unique 10-digit transaction IDs, and ISO-8601 timestamps to maintain a professional and auditable record of all deposits, withdrawals, and transfers
